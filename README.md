@@ -10,18 +10,10 @@ Welcome to my Github page! I am currently in the Labs portion of Lambda School n
 
 
 #### Things I am currently working on: 
-- Working with a team to develop a website to connect potential microentrepreneurs with mircoentrepreneur programs
-- Creating a website about notable woman in STEM, feel free to contact me with suggestions!
-- Learning and teaching Python, algorithms, and data structures 
-- Reading [Influence: The Psychology of Persuasion](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) by Robert B. Cialdini
-- Etching glass!
+
 
 #### Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=fatima-rizvi&show_icons=true&hide_border=true" />
-
-<h3>🛠 Tech Stack</h3>
-
 - ⌨️ Python | Java
 - 🌐 JavaScript | React | Redux | HTML | CSS | Bootstrap | Material-UI | Ant Design | Styled-Components
 - 🛢 PostgreSQL
