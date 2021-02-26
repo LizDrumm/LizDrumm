@@ -14,7 +14,7 @@ Welcome to my Github page! I am currently in the Labs portion of Lambda School, 
 - Express | Node.JS<br/>
 - PostgreSQL<br/>
 - Heroku | Vercel | Netlify<br/>
-- Visual Studio Code | IntelliJ IDEA | Git | Postman<br/>
+- Visual Studio Code | Postman | Docker<br/>
 - Whimsical<br/>
 - Git | Github <br/>
 - Python<br/>
